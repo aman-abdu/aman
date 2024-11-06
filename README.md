@@ -1,4 +1,4 @@
-# aman
+# Data Transmission using LiFi Technology
 
 Lifi communication using IR LED and photodiode with wiznet board
 
